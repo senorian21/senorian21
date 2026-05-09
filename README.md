@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ilya Kozlovski
 
-### 💻 Backend Engineer | 🚀 Node.js Enthusiast | ⚡ TypeScript Advocate
+### 💻 Backend Engineer 
 
 <div align="center">
 
@@ -77,16 +77,12 @@
 
 </div>
 
----
 
 <!-- Animated Wave Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="wave" width="100%" />
 </div>
 
----
-
----
 
 ## 🐍 Contribution Snake
 
@@ -96,24 +92,10 @@
 
 </div>
 
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=senorian21&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
----
-
 <!-- Animated Wave Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="wave" width="100%" />
 </div>
-
----
 
 ## 🤝 Connect With Me
 
@@ -134,7 +116,5 @@
 **Thanks for visiting! 🎉**
 
 <img src="https://media.giphy.com/media/2HtWpp60NQ9CU/giphy.gif" alt="coding-cat" width="150" />
-
-Made with ❤️ by Ilya Kozlovski
 
 </div>
