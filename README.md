@@ -111,8 +111,6 @@
 
 ### ✨ Thanks for stopping by! Come back soon 👋
 
-**Thanks for visiting! 🎉**
-
 <img src="https://media.giphy.com/media/2HtWpp60NQ9CU/giphy.gif" alt="coding-cat" width="150" />
 
 </div>
