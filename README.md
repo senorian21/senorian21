@@ -17,7 +17,6 @@
 - 👨‍💻 All my projects on [GitHub](https://github.com/senorian21?tab=repositories)
 - 💬 Ask me about **Node.js, NestJS, TypeScript, Prisma, PostgreSQL**
 - 📫 How to reach me: **kozlvskiilya@gmail.com**
-- ⚡ Fun fact: **I refactor code for fun! 🛠️**
 
 ---
 
