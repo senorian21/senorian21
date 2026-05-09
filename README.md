@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Building+scalable+backends;NestJS+%26+TypeScript+lover;Clean+Code+advocate;Payment+systems+expert)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Architecting+microservices;API+design;Database+optimization;Cloud-native+solutions)
 
 </div>
 
