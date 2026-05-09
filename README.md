@@ -1,70 +1,88 @@
-# 👋 Привет! Я [ВАШЕ ИМЯ]
+# 👋 Hi, I'm Ilya Kozlovski
 
-### 🎨 Creative Developer | 💻 Full Stack Engineer | 🚀 Tech Enthusiast
+### 💻 Backend Engineer | 🚀 Node.js Enthusiast | ⚡ TypeScript Advocate
 
 <div align="center">
 
-![GitHub Visitor Count](https://visitcount.itsvg.in/api?id=YOUR_USERNAME&label=Profile%20Views&color=0&icon=5&locale=true)
+![GitHub Visitor Count](https://visitcount.itsvg.in/api?id=senorian21&label=Profile%20Views&color=0&icon=5&locale=true)
 
 </div>
 
 ---
 
-## 🎯 Обо мне
+## 🎯 About Me
 
-- 🔭 Сейчас работаю над **ваши-проекты**
-- 🌱 Изучаю **новые-технологии**
-- 👨‍💻 Все мои проекты на [GitHub](https://github.com/YOUR_USERNAME)
-- 💬 Спроси меня о **ваши-навыки**
-- 📫 Как связаться: **ваш-email@example.com**
-- ⚡ Интересный факт: **что-то о вас**
+- 🔭 Currently working on **NestJS microservices & payment systems**
+- 🌱 Learning **System Design, Clean Architecture & DDD**
+- 👨‍💻 All my projects on [GitHub](https://github.com/YOUR_USERNAME)
+- 💬 Ask me about **Node.js, NestJS, TypeScript, Prisma, PostgreSQL**
+- 📫 How to reach me: **kozlvskiilya@gmail.com**
+- ⚡ Fun fact: **I refactor code for fun! 🛠️**
 
 ---
 
-## 🛠️ Технологии и Инструменты
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-### Backend
+### 🔹 Core Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+### 🔹 APIs & Architecture
+<p>
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=api&logoColor=white" alt="REST API" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=ibm&logoColor=white" alt="Microservices" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets" />
 </p>
 
-### Базы Данных
+### 🔹 Databases & ORM
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM" />
 </p>
 
-### Инструменты
+### 🔹 Testing & Quality
 <p>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Supertest-000000?style=for-the-badge&logo=supertest&logoColor=white" alt="Supertest" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier" />
+</p>
+
+### 🔹 DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+### 🔹 Cloud & Payments
+<p>
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 </div>
 
 ---
 
-## 📊 Моя GitHub Статистика
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -78,7 +96,7 @@
 
 ---
 
-## 🏆 Достижения
+## 🏆 Achievements
 
 <div align="center">
 
@@ -88,7 +106,7 @@
 
 ---
 
-## 📈 Активность
+## 📈 Activity Graph
 
 <div align="center">
 
@@ -98,14 +116,14 @@
 
 ---
 
-## 🤝 Где меня найти
+## 🤝 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_username)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kozlvskiilya@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://your-portfolio.com)
 
 </div>
@@ -114,10 +132,10 @@
 
 <div align="center">
 
-### ⭐ Если вам понравился мой профиль, поставьте звезду этому репозиторию!
+### ⭐ If you like my profile, give this repo a star!
 
-**Спасибо за визит! 🎉**
+**Thanks for visiting! 🎉**
 
-Made with ❤️ by [Ваше Имя]
+Made with ❤️ by Ilya Kozlovski
 
 </div>
