@@ -109,7 +109,7 @@
 
 <div align="center">
 
-### ⭐ If you like my profile, give this repo a star!
+### ✨ Thanks for stopping by! Come back soon 👋
 
 **Thanks for visiting! 🎉**
 
