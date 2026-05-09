@@ -4,7 +4,9 @@
 
 <div align="center">
 
-![GitHub Visitor Count](https://visitcount.itsvg.in/api?id=senorian21&label=Profile%20Views&color=0&icon=5&locale=true)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Building+scalable+backends;NestJS+%26+TypeScript+lover;Clean+Code+advocate;Payment+systems+expert)
+
+![GitHub Visitor Count](https://visitcount.itsvg.in/api?id=senorian21&label=👁+Profile+Views&color=38B2AC&icon=5&locale=true)
 
 </div>
 
@@ -14,7 +16,7 @@
 
 - 🔭 Currently working on **NestJS microservices & payment systems**
 - 🌱 Learning **System Design, Clean Architecture & DDD**
-- 👨‍💻 All my projects on [GitHub](https://github.com/YOUR_USERNAME)
+- 👨‍💻 All my projects on [GitHub](https://github.com/senorian21?tab=repositories)
 - 💬 Ask me about **Node.js, NestJS, TypeScript, Prisma, PostgreSQL**
 - 📫 How to reach me: **kozlvskiilya@gmail.com**
 - ⚡ Fun fact: **I refactor code for fun! 🛠️**
@@ -49,15 +51,12 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM" />
 </p>
 
 ### 🔹 Testing & Quality
 <p>
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-  <img src="https://img.shields.io/badge/Supertest-000000?style=for-the-badge&logo=supertest&logoColor=white" alt="Supertest" />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier" />
 </p>
 
 ### 🔹 DevOps & Tools
@@ -67,8 +66,6 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ### 🔹 Cloud & Payments
@@ -82,25 +79,20 @@
 
 ---
 
-## 📊 GitHub Stats
-
+<!-- Animated Wave Divider -->
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=false)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=false)
-
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="wave" width="100%" />
 </div>
 
 ---
 
-## 🏆 Achievements
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&row=2&column=3&theme=radical&no-bg=true&no-frame=true)
+![Snake Animation](https://raw.githubusercontent.com/senorian21/senorian21/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -110,8 +102,15 @@
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=senorian21&theme=react-dark&hide_border=true&area=true)
 
+</div>
+
+---
+
+<!-- Animated Wave Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="wave" width="100%" />
 </div>
 
 ---
@@ -120,11 +119,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_username)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2)](--------)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kozlovski_ilya)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kozlvskiilya@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://your-portfolio.com)
 
 </div>
 
@@ -135,6 +132,8 @@
 ### ⭐ If you like my profile, give this repo a star!
 
 **Thanks for visiting! 🎉**
+
+<img src="https://media.giphy.com/media/2HtWpp60NQ9CU/giphy.gif" alt="coding-cat" width="150" />
 
 Made with ❤️ by Ilya Kozlovski
 
